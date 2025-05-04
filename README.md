@@ -20,8 +20,7 @@ O objetivo deste projeto é criar um **site acessível** para o público em gera
 
 # Como Rodar o Projeto
 
-### Apenas abrir o arquivo HTML em seu navegador
-
+Apenas abrir o arquivo HTML em seu navegador
 
 
 ## Acessibilidade com WAI-ARIA e COGA
