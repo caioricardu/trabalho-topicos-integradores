@@ -23,6 +23,7 @@ O objetivo deste projeto é criar um **site acessível** para o público em gera
 ### Apenas abrir o arquivo HTML em seu navegador
 
 
+
 ## Acessibilidade com WAI-ARIA e COGA
 
 Este projeto utiliza as seguintes tags e atributos WAI-ARIA para melhorar a acessibilidade, especialmente para atender diretrizes COGA (Cognitive and Learning Disabilities Accessibility Task Force):
