@@ -53,6 +53,3 @@ Este projeto utiliza as seguintes tags e atributos WAI-ARIA para melhorar a aces
 - **`aria-label="Rodapé"`**  
   Fornece uma descrição clara do conteúdo do rodapé.
 
-### Referências
-- [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/)
-- [W3C COGA](https://www.w3.org/WAI/coga/)
