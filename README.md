@@ -21,3 +21,37 @@ O objetivo deste projeto é criar um **site acessível** para o público em gera
 # Como Rodar o Projeto
 
 ### Apenas abrir o arquivo HTML em seu navegador
+
+
+## Acessibilidade com WAI-ARIA e COGA
+
+Este projeto utiliza as seguintes tags e atributos WAI-ARIA para melhorar a acessibilidade, especialmente para atender diretrizes COGA (Cognitive and Learning Disabilities Accessibility Task Force):
+
+- **`role="banner"`**  
+  Define a região do cabeçalho principal do site.
+
+- **`aria-label="Cabeçalho do site"`**  
+  Descreve o propósito do banner de forma clara para tecnologias assistivas.
+
+- **`role="main"`**  
+  Indica a região principal do conteúdo da página.
+
+- **`aria-label="Conteúdo principal"`**  
+  Dá uma descrição clara da área principal para usuários de leitores de tela.
+
+- **`aria-labelledby="noticias-economia"`**  
+  Relaciona a seção de notícias ao título correspondente, ajudando na navegação.
+
+- **`aria-labelledby="pib-2025"`**, **`aria-labelledby="inflacao-2025"`**,  
+  **`aria-labelledby="economia-gastos"`**, **`aria-labelledby="salario-minimo"`**  
+  Cada artigo é relacionado ao seu título, permitindo que leitores de tela apresentem um resumo útil.
+
+- **`role="contentinfo"`**  
+  Marca a região do rodapé do site.
+
+- **`aria-label="Rodapé"`**  
+  Fornece uma descrição clara do conteúdo do rodapé.
+
+### Referências
+- [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/)
+- [W3C COGA](https://www.w3.org/WAI/coga/)
