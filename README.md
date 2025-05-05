@@ -11,7 +11,7 @@ Este é um projeto simples de jornal online chamado **OSBoys Jornal**, que exibe
 
 ## Objetivo
 
-O objetivo deste projeto é criar um **site acessível** para o público em geral, com foco em:
+O objetivo deste projeto é criar uma **página** para o público em geral, com foco em:
 
 - Leitores de tela (para deficientes visuais);
 - Usuários com **deficiência cognitiva** (a exemplo de dislexia, dificuldades de memória ou de foco);
